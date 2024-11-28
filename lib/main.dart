@@ -12,19 +12,3 @@ Future<void> main() async {
   );
   runApp(const MainApp());
 }
-
-
-/*
-
-This is a minimal Flutter project setup with the following features:
-
-BLoC to manage global member state
-Hydrated_BLoC to persist member state (states are saved in platform-specific storage)
-go_router to handle route management
-StatefulShellRoute to maintain a bottom navigation bar across different pages
-Integration of BLoC with go_router to redirect users to member-only or guest-only pages based on state changes
-This project is an excellent starting point for a Flutter application that requires users to sign in to access member-only pages.
-
-And cheers ! 🍺
-
-*/

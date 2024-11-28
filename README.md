@@ -10,4 +10,6 @@ This is a simple Flutter project designed to manage user authentication and cont
    -  if user is already signed in when page loads and remains on then sign-in page, redirect them to member path /me page
    -  if user is not signed in and tries to load member only pages, redirect them to the front page
 
+![video preview](demo.png)
+
 Cheers ! 🍺
